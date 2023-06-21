@@ -11,4 +11,3 @@ Features:
 - Basic messaging
 
 - Analytics
-# social
